@@ -187,6 +187,7 @@ Below are the primary endpoints exposed by the DRF API:
 ### 🏠 Customer Food Catalog View
 ![Food Catalog](https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200&auto=format&fit=crop)
 *Beautifully categorized dish catalogue with dynamic rating stars and discount tags.*
+<img width="1425" height="948" alt="Screenshot 2026-10-18 125719" src="https://github.com/user-attachments/assets/3575bab9-722f-41aa-b33c-4e8a20276790" />
 
 ---
 
