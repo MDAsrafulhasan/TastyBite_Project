@@ -181,13 +181,17 @@ Below are the primary endpoints exposed by the DRF API:
 
 ## 📸 Screenshots
 
-> [!NOTE]
-> Below are placeholders. Replace them with links to your own screenshots once deployed to your portfolio.
-
 ### 🏠 Customer Food Catalog View
 ![Food Catalog](https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200&auto=format&fit=crop)
 *Beautifully categorized dish catalogue with dynamic rating stars and discount tags.*
-<img width="1425" height="948" alt="Screenshot 2026-10-18 125719" src="https://github.com/user-attachments/assets/3575bab9-722f-41aa-b33c-4e8a20276790" />
+<img width="1425" height="948" alt="login_page" src="https://github.com/user-attachments/assets/3575bab9-722f-41aa-b33c-4e8a20276790" />
+*Login Page.*
+<img width="1461" height="915" alt="Foods" src="https://github.com/user-attachments/assets/27e227cc-2d49-4595-977f-ec0c5055839c" />
+*All foods.*
+<img width="1492" height="921" alt="Details" src="https://github.com/user-attachments/assets/04527aa3-8253-456d-9a7d-2f76dcdaf9a3" />
+*Food details.*
+<img width="1549" height="959" alt="History" src="https://github.com/user-attachments/assets/c01543cb-6726-4ba6-a7cd-fa511e7f1de1" />
+*Your Order History.*
 
 ---
 
